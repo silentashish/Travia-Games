@@ -69,7 +69,7 @@ class HomeContainer extends PureComponent {
 
     return (
       <View style={homeContainerStyle.viewContainer}>
-        <GeneralHeadline text="Travia Games" />
+        <GeneralHeadline text="IQmaster" />
 
         <View style={{width: '100%', height: 200}}>
           <LottieView
